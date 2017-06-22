@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello
+title: I'm a Page
 excerpt:
 category: [Ruby, jekyll/hyde]
 tags: [web's, js & css]
